@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this research, framework, or architectural tuning methodology, please cite it as below."
+authors:
+  - family-names: "Nastaran"
+    given-names: "Mohammadali"
+    affiliation: "Principal HPC Systems Architect and Senior Linux Kernel Engineer"
+title: "Hardware-Conscious Performance Engineering: Cache Hierarchy Optimization, NUMA Topologies, and Hypervisor Resource Scheduling for Memory-Hard HPC Workloads"
+version: 1.0.0
+date-released: 2026-10-31
+url: "https://github.com/smellthedeath/Hardware-Conscious-Performance-Engineering"
+keywords:
+  - high-performance-computing
+  - memory-hard-workloads
+  - cache-hierarchy
+  - numa-topology
+  - tlb-optimization
+  - hugepages
+  - model-specific-registers
+  - vmware-esxi

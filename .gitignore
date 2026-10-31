@@ -1,0 +1,27 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build and LaTeX artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Python / benchmark outputs
+__pycache__/
+*.py[cod]
+*.csv.tmp
+*.log.tmp
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*~
